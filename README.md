@@ -1,4 +1,4 @@
-# Customer Churn Prediction |
+# Customer Churn Prediction | [LINK](https://customer-churn-prediction-aaenxktg5czumermmnbxhx.streamlit.app/)
 
 This project provides a comprehensive solution for predicting customer churn using a neural network model. It includes data analysis, model training, and a user-friendly web application built with Streamlit for both single and batch predictions.
 
